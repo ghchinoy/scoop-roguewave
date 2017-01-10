@@ -1,1 +1,6 @@
-{ version: "0.2.1", url: "https://github.com/ghchinoy/rwctl/releases/download/v0.2.1/rwctl-0.2.1-windows.amd64.exe", bin: "rwctl-0.2.1-windows.amd64.exe" }
+{ 
+	version: "0.2.2", 
+	url: "https://github.com/ghchinoy/rwctl/releases/download/v0.2.2/rwctl-0.2.2.64.exe.zip", 
+	hash: "72bac74394d2b134442ea9fec66ada5cef2329345c7b560e288c70c9832953ec",
+	bin: "rwctl.exe" 
+}
